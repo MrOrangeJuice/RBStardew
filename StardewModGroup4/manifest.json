@@ -1,0 +1,10 @@
+{
+  "Name": "StardewModGroup04",
+  "Author": "Group04",
+  "Version": "1.0.0",
+  "Description": "<One or two sentences about the mod>",
+  "UniqueID": "Group04.StardewModGroup04",
+  "EntryDll": "StardewModGroup04.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}

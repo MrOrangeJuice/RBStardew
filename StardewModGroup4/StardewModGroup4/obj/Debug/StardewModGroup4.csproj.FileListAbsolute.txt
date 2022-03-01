@@ -1,0 +1,6 @@
+D:\StardewMod\Project\StardewModGroup4\StardewModGroup4\bin\Debug\StardewModGroup4.dll
+D:\StardewMod\Project\StardewModGroup4\StardewModGroup4\bin\Debug\StardewModGroup4.pdb
+D:\StardewMod\Project\StardewModGroup4\StardewModGroup4\obj\Debug\StardewModGroup4.csprojAssemblyReference.cache
+D:\StardewMod\Project\StardewModGroup4\StardewModGroup4\obj\Debug\StardewModGroup4.csproj.CoreCompileInputs.cache
+D:\StardewMod\Project\StardewModGroup4\StardewModGroup4\obj\Debug\StardewModGroup4.dll
+D:\StardewMod\Project\StardewModGroup4\StardewModGroup4\obj\Debug\StardewModGroup4.pdb
