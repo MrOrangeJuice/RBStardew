@@ -9,3 +9,9 @@ C:\Users\Jetfi\OneDrive\Documents\GitHub\RBStardew\StardewModGroup4\StardewModGr
 C:\Users\Jetfi\OneDrive\Documents\GitHub\RBStardew\StardewModGroup4\StardewModGroup4\obj\Debug\StardewModGroup4.csproj.CoreCompileInputs.cache
 C:\Users\Jetfi\OneDrive\Documents\GitHub\RBStardew\StardewModGroup4\StardewModGroup4\obj\Debug\StardewModGroup4.dll
 C:\Users\Jetfi\OneDrive\Documents\GitHub\RBStardew\StardewModGroup4\StardewModGroup4\obj\Debug\StardewModGroup4.pdb
+C:\Users\parro\Documents\GitHub\RBStardew\StardewModGroup4\StardewModGroup4\bin\Debug\StardewModGroup4.dll
+C:\Users\parro\Documents\GitHub\RBStardew\StardewModGroup4\StardewModGroup4\bin\Debug\StardewModGroup4.pdb
+C:\Users\parro\Documents\GitHub\RBStardew\StardewModGroup4\StardewModGroup4\obj\Debug\StardewModGroup4.csproj.AssemblyReference.cache
+C:\Users\parro\Documents\GitHub\RBStardew\StardewModGroup4\StardewModGroup4\obj\Debug\StardewModGroup4.csproj.CoreCompileInputs.cache
+C:\Users\parro\Documents\GitHub\RBStardew\StardewModGroup4\StardewModGroup4\obj\Debug\StardewModGroup4.dll
+C:\Users\parro\Documents\GitHub\RBStardew\StardewModGroup4\StardewModGroup4\obj\Debug\StardewModGroup4.pdb

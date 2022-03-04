@@ -1,0 +1,11 @@
+{
+  "Name": "Test Mod",
+  "Author": "Super Citrus",
+  "Version": "1.0.0",
+  "Description": "This is a test mod.",
+  "UniqueID": "SuperCitrus.TestMod",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}
