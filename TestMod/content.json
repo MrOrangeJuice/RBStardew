@@ -2,9 +2,9 @@
    "Format": "1.19.0",
    "Changes": [
       {
-         "Action": "EditImage",
-         "Target": "Maps/springobjects",
-         "FromFile": "assets/fish-object.png"
+         "Action": "Load",
+         "Target": "Portraits/Abigail",
+         "FromFile": "assets/abigail.png"
       }
    ]
 }
