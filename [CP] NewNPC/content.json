@@ -10,7 +10,17 @@
 		
 		{
 			"LogName": "Portraits",
-			"Action
+			"Action": "Load",
+			"Target": "Portrait/NPC",
+			"FromFile": "assets/img/Portrait.png",
+		},
+		{
+			"LogName": "NPC Manifestation",
+			"Action": "EditData",
+			"Target": "Data/NPCDispositions",
+			"Entries": {
+				"NPC": "adult/neutral/neutral/positive/female/datable/null/Other/fall 13//BusStop 22 5/NPC",
+			}
 		}
 	]
 }
