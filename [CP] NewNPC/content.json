@@ -1,0 +1,16 @@
+{
+	"Format": "1.9",
+	"Changes": [
+		{
+			"LogName": "Sprite",
+			"Action": "Load",
+			"Target": "Characters/NPC",
+			"FromFile": "assets/img/sprite.png",
+		},
+		
+		{
+			"LogName": "Portraits",
+			"Action
+		}
+	]
+}
