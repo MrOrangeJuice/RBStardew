@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.8" tiledversion="1.8.2" name="BeachMapTileset" tilewidth="16" tileheight="16" tilecount="1280" columns="32">
- <image source="../Content (unpacked)/Maps/spring_island_tilesheet_1.png" width="512" height="640"/>
+ <image source="spring_island_tilesheet_1.png" width="512" height="640"/>
  <tile id="7">
   <properties>
    <property name="Water" value="T"/>

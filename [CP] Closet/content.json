@@ -1,0 +1,34 @@
+{
+   "Format": "1.25.0",
+
+   "CustomLocations": [
+      // add the in-game location
+      {
+         "Name": "Custom_RB_Island",
+         "FromMapFile": "assets/_RB.tmx"
+      }
+   ],
+
+   "Changes": [
+      // add a warp to the new location from Abigail's room
+      {
+         "Action": "EditMap",
+         "Target": "Maps/SeedShop",
+         "AddWarps": [
+            "8 10 Custom_RB_Island 7 20"
+         ]
+      },
+
+      // conditionally edit the map if needed
+	  /*
+      {
+         "Action": "EditMap",
+         "Target": "Maps/Custom_RB_Island",
+         "FromFile": "assets/abigail-closet-clean.tmx",
+         "When": {
+            "HasFlag": "AbigailClosetClean" // example custom mail flag
+         }
+      }
+	  */
+   ]
+}
