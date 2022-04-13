@@ -1,0 +1,16 @@
+{
+    "Name": "Ring of Farming",
+    "Category": "Ring",
+    "Edibility": -300,
+    "Price": 20000,
+    "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": [
+
+        ],
+        "CanPurchase": false,
+        "PurchaseFrom": "Dwarf",
+        "PurchasePrice": 12500
+    },
+    "TranslationKey": "ring-of-farming"
+}
