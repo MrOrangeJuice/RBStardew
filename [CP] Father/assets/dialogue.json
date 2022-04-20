@@ -1,0 +1,105 @@
+{
+	"Mon": "$q 305/306 completeQuest_#Hello, do you have what I asked for?
+			#$r 305 15 completeQuest_yes#Yes, I do.
+			#$r 306 0 completeQuest_sorry#No, I'll be back.
+			#$r 306 0 completeQuest_no#No, I'll be back.
+		",
+		completeQuest_yes: 
+			"Oh, thank you so much!
+			#$b This is exactly what I needed to fix my sprinkler. Now my plants can be bright and healthy once again! 
+			#$b For your hard work, here please take this. It's a ring that you should be able to trade in for immeasurable value.$h
+			",
+		completeQuest_sorry:
+			"Okay.",
+		completeQuest_no:
+			"Okay.",
+			
+	"Tue": "$q 305/306 completeQuest_#Hello, do you have what I asked for?
+			#$r 305 15 completeQuest_yes#Yes, I do.
+			#$r 306 0 completeQuest_sorry#No, I'll be back.
+			#$r 306 0 completeQuest_no#No, I'll be back.
+		",
+		completeQuest_yes: 
+			"Oh, thank you so much!
+			#$b This is exactly what I needed to fix my sprinkler. Now my plants can be bright and healthy once again! 
+			#$b For your hard work, here please take this. It's a ring that you should be able to trade in for immeasurable value.$h
+			",
+		completeQuest_sorry:
+			"Okay.",
+		completeQuest_no:
+			"Okay.",
+	
+	"Wed": "$q 305/306 completeQuest_#Hello, do you have what I asked for?
+			#$r 305 15 completeQuest_yes#Yes, I do.
+			#$r 306 0 completeQuest_sorry#No, I'll be back.
+			#$r 306 0 completeQuest_no#No, I'll be back.
+		",
+		completeQuest_yes: 
+			"Oh, thank you so much!
+			#$b This is exactly what I needed to fix my sprinkler. Now my plants can be bright and healthy once again! 
+			#$b For your hard work, here please take this. It's a ring that you should be able to trade in for immeasurable value.$h
+			",
+		completeQuest_sorry:
+			"Okay.",
+		completeQuest_no:
+			"Okay.",
+	"Thu": "$q 305/306 completeQuest_#Hello, do you have what I asked for?
+			#$r 305 15 completeQuest_yes#Yes, I do.
+			#$r 306 0 completeQuest_sorry#No, I'll be back.
+			#$r 306 0 completeQuest_no#No, I'll be back.
+		",
+		completeQuest_yes: 
+			"Oh, thank you so much!
+			#$b This is exactly what I needed to fix my sprinkler. Now my plants can be bright and healthy once again! 
+			#$b For your hard work, here please take this. It's a ring that you should be able to trade in for immeasurable value.$h
+			",
+		completeQuest_sorry:
+			"Okay.",
+		completeQuest_no:
+			"Okay.",
+	
+	"Fri": "$q 305/306 completeQuest_#Hello, do you have what I asked for?
+			#$r 305 15 completeQuest_yes#Yes, I do.
+			#$r 306 0 completeQuest_sorry#No, I'll be back.
+			#$r 306 0 completeQuest_no#No, I'll be back.
+		",
+		completeQuest_yes: 
+			"Oh, thank you so much!
+			#$b This is exactly what I needed to fix my sprinkler. Now my plants can be bright and healthy once again! 
+			#$b For your hard work, here please take this. It's a ring that you should be able to trade in for immeasurable value.$h
+			",
+		completeQuest_sorry:
+			"Okay.",
+		completeQuest_no:
+			"Okay.",
+			
+	"Sat": "$q 305/306 completeQuest_#Hello, do you have what I asked for?
+			#$r 305 15 completeQuest_yes#Yes, I do.
+			#$r 306 0 completeQuest_sorry#No, I'll be back.
+			#$r 306 0 completeQuest_no#No, I'll be back.
+		",
+		completeQuest_yes: 
+			"Oh, thank you so much!
+			#$b This is exactly what I needed to fix my sprinkler. Now my plants can be bright and healthy once again! 
+			#$b For your hard work, here please take this. It's a ring that you should be able to trade in for immeasurable value.$h
+			",
+		completeQuest_sorry:
+			"Okay.",
+		completeQuest_no:
+			"Okay.",
+			
+	"Sun": "$q 305/306 completeQuest_#Hello, do you have what I asked for?
+			#$r 305 15 completeQuest_yes#Yes, I do.
+			#$r 306 0 completeQuest_sorry#No, I'll be back.
+			#$r 306 0 completeQuest_no#No, I'll be back.
+		",
+		completeQuest_yes: 
+			"Oh, thank you so much!
+			#$b This is exactly what I needed to fix my sprinkler. Now my plants can be bright and healthy once again! 
+			#$b For your hard work, here please take this. It's a ring that you should be able to trade in for immeasurable value.$h
+			",
+		completeQuest_sorry:
+			"Okay.",
+		completeQuest_no:
+			"Okay.",
+}
