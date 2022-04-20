@@ -1,6 +1,6 @@
 {
 	"Mon": "Hello fellow villager. You must’ve traveled far to get to this area.
-			#$b Lately my daughter -PLACEHOLDER- has been having trouble with her plants. It seems that she has accidentally broken her precious sprinkler and cannot water her plants.
+			#$b Lately my father -PLACEHOLDER- has been having trouble with her plants. It seems that he has accidentally broken his precious sprinkler and cannot water her plants.
 			#$q 305/306 sprinkler_followup#Can I request that you go and find this specific part -PLACEHOLDER- and deliver it to her?
 			#$r 305 15 sprinkler_yes#Sure, I would love to!
 			#$r 306 0 sprinkler_no#Oh, sorry. I cannot at the moment...
@@ -14,7 +14,7 @@
 			",
 			
 	"Tue": "Hello fellow villager. You must’ve traveled far to get to this area.
-			#$b Lately my daughter -PLACEHOLDER- has been having trouble with her plants. It seems that she has accidentally broken her precious sprinkler and cannot water her plants.
+			#$b Lately my father -PLACEHOLDER- has been having trouble with her plants. It seems that he has accidentally broken his precious sprinkler and cannot water her plants.
 			#$q 305/306 sprinkler_followup#Can I request that you go and find this specific part -PLACEHOLDER- and deliver it to her?
 			#$r 305 15 sprinkler_yes#Sure, I would love to!
 			#$r 306 0 sprinkler_no#Oh, sorry. I cannot at the moment...
@@ -28,8 +28,8 @@
 			",
 			
 	"Wed": "Hello fellow villager. You must’ve traveled far to get to this area.
-			#$b Lately my daughter -PLACEHOLDER- has been having trouble with her plants. It seems that she has accidentally broken her precious sprinkler and cannot water her plants.
-			#$q 305/306 sprinkler_followup#Can I request that you go and find this specific part -PLACEHOLDER- and deliver it to her?
+			#$b Lately my father -PLACEHOLDER- has been having trouble with her plants. It seems that he has accidentally broken his precious sprinkler and cannot water her plants.
+			#$q 305/306 sprinkler_followup#Can I request that you go and find this specific part -PLACEHOLDER- and deliver it to him?
 			#$r 305 15 sprinkler_yes#Sure, I would love to!
 			#$r 306 0 sprinkler_no#Oh, sorry. I cannot at the moment...
 			",
@@ -42,8 +42,8 @@
 			",
 			
 	"Thu": "Hello fellow villager. You must’ve traveled far to get to this area.
-			#$b Lately my daughter -PLACEHOLDER- has been having trouble with her plants. It seems that she has accidentally broken her precious sprinkler and cannot water her plants.
-			#$q 305/306 sprinkler_followup#Can I request that you go and find this specific part -PLACEHOLDER- and deliver it to her?
+			#$b Lately my father -PLACEHOLDER- has been having trouble with her plants. It seems that he has accidentally broken his precious sprinkler and cannot water her plants.
+			#$q 305/306 sprinkler_followup#Can I request that you go and find this specific part -PLACEHOLDER- and deliver it to him?
 			#$r 305 15 sprinkler_yes#Sure, I would love to!
 			#$r 306 0 sprinkler_no#Oh, sorry. I cannot at the moment...
 			",
@@ -56,8 +56,8 @@
 			",
 			
 	"Fri": "Hello fellow villager. You must’ve traveled far to get to this area.
-			#$b Lately my daughter -PLACEHOLDER- has been having trouble with her plants. It seems that she has accidentally broken her precious sprinkler and cannot water her plants.
-			#$q 305/306 sprinkler_followup#Can I request that you go and find this specific part -PLACEHOLDER- and deliver it to her?
+			#$b Lately my father -PLACEHOLDER- has been having trouble with her plants. It seems that he has accidentally broken his precious sprinkler and cannot water her plants.
+			#$q 305/306 sprinkler_followup#Can I request that you go and find this specific part -PLACEHOLDER- and deliver it to him?
 			#$r 305 15 sprinkler_yes#Sure, I would love to!
 			#$r 306 0 sprinkler_no#Oh, sorry. I cannot at the moment...
 			",
@@ -70,8 +70,8 @@
 			",
 			
 	"Sat": "Hello fellow villager. You must’ve traveled far to get to this area.
-			#$b Lately my daughter -PLACEHOLDER- has been having trouble with her plants. It seems that she has accidentally broken her precious sprinkler and cannot water her plants.
-			#$q 305/306 sprinkler_followup#Can I request that you go and find this specific part -PLACEHOLDER- and deliver it to her?
+			#$b Lately my father -PLACEHOLDER- has been having trouble with her plants. It seems that he has accidentally broken his precious sprinkler and cannot water her plants.
+			#$q 305/306 sprinkler_followup#Can I request that you go and find this specific part -PLACEHOLDER- and deliver it to him?
 			#$r 305 15 sprinkler_yes#Sure, I would love to!
 			#$r 306 0 sprinkler_no#Oh, sorry. I cannot at the moment...
 			",
@@ -84,8 +84,8 @@
 			",
 			
 	"Sun": "Hello fellow villager. You must’ve traveled far to get to this area.
-			#$b Lately my daughter -PLACEHOLDER- has been having trouble with her plants. It seems that she has accidentally broken her precious sprinkler and cannot water her plants.
-			#$q 305/306 sprinkler_followup#Can I request that you go and find this specific part -PLACEHOLDER- and deliver it to her?
+			#$b Lately my father -PLACEHOLDER- has been having trouble with her plants. It seems that he has accidentally broken his precious sprinkler and cannot water her plants.
+			#$q 305/306 sprinkler_followup#Can I request that you go and find this specific part -PLACEHOLDER- and deliver it to him?
 			#$r 305 15 sprinkler_yes#Sure, I would love to!
 			#$r 306 0 sprinkler_no#Oh, sorry. I cannot at the moment...
 			",
