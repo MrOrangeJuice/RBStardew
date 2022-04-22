@@ -13,10 +13,13 @@
       // add a warp to the new location from Abigail's room
       {
          "Action": "EditMap",
-         "Target": "Maps/SeedShop",
-         "AddWarps": [
-            "8 10 Custom_RB_Island 7 20"
-         ]
+         "Target": "Maps/Town",
+        "AddWarps": [
+            "54 104 Custom_RB_Island 7 20",
+            "55 104 Custom_RB_Island 7 20",
+            "56 104 Custom_RB_Island 7 20",
+          
+        ]
       },
 
       // conditionally edit the map if needed
