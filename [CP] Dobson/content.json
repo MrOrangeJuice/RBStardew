@@ -48,5 +48,21 @@
                 "Dobson1": "I hope I don't get cold feet",
             },
         },
+		{
+		  "Action": "EditData",
+		  "Target": "Data/Quests",
+		  "Entries": {
+			"131": "ItemDelivery/Special Request : Sprinkler/If you go see this townsperson, you�ll have the opportunity to gain a special item upon completion./Go to this person and listen to their request./Dobson 390 30/-1/500/-1/true/Something smells like fresh lobster. Oh, that's good.$h#$b#Take care, friend."
+		  }
+		},
+
+		{
+
+		  "Action":"EditData",
+		  "Target":"Data/mail",
+		  "Entries": {
+			"spring_3_1": "Hello there,^ My poor daughter -NPC NAME- needs a service person to come run an errand for her. ^ Please come see me at -ISLAND NAME- for more information.^ There�s a good reward in it for you! ^ -Dobson %item quest 131 true %%[#]Custom mail"
+		  }
+		}
     ]
 }
