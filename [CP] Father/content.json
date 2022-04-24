@@ -30,7 +30,7 @@
             "Action": "EditData",
             "Target": "Data/NPCDispositions",
             "Entries": {
-                "Father": "adult/rude/neutral/positive/male/datable//Town/summer 7//BusStop 19 6/Father"
+                "Father": "adult/rude/neutral/positive/male/datable//Town/summer 7//Custom_RB_Island 50 6/Father"
             },
         },
         {
