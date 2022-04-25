@@ -34,9 +34,9 @@
         "Action": "EditMap",
         "Target": "Maps/Custom_RB_Island",
         "AddWarps": [
-            "7 0 Town 55 109",
-            "8 0 Town 55 109",
-            "9 0 Town 55 109",
+            "7 0 Town 55 107",
+            "8 0 Town 55 107",
+            "9 0 Town 55 107",
             "90 76 Custom_RB_Cave 7 12",
             "91 76 Custom_RB_Cave 7 12",
             "90 39 Custom_RB_BeachHut 21 11",
