@@ -1,0 +1,54 @@
+{
+    "Format": "1.25.0",
+    "Changes": [
+        {
+            "Action": "Load",
+            "Target": "Characters/Dobson",
+            "FromFile": "assets/sprites.png",
+        },
+        {
+            "Action": "Load",
+            "Target": "Portraits/Dobson",
+            "FromFile": "assets/portraits.png",
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Dobson",
+            "FromFile": "assets/dialogue.json",
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueDobson",
+            "FromFile": "assets/marriageDialogue.json",
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/schedules/Dobson",
+            "FromFile": "assets/schedule.json",
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Dobson": "adult/rude/neutral/positive/male/datable//Town/summer 7//Custom_RB_Island 87 43/Dobson"
+            },
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Dobson": "You're giving this to me? This is amazing!/207 232 233 400/Thank you! This is a very interesting specimen./-5 -79 422/...What is this?/80 330/This is disgusting./2/That was very thoughtful of you./-4/ ",
+            },
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/EngagementDialogue",
+            "Entries": {
+                "Dobson0": "I can't believe I am about to be married!$h",
+                "Dobson1": "I hope I don't get cold feet",
+            },
+        },	
+
+		
+    ]
+}

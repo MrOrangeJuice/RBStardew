@@ -1,0 +1,115 @@
+{ /*
+	"Mon": "My daughter dobson needs some stone to fix her sprinkler. Could you help her? She is probably at her hut on the Island	[´quest: specialDeliverySprinkler, RiskyBiscuits.DobsonQuest´]",
+		 
+	"Tue": "My daughter dobson needs some stone to fix her sprinkler. Could you help her? She is probably at her hut on the Island",
+
+	"Wen": "My daughter dobson needs some stone to fix her sprinkler. Could you help her? She is probably at her hut on the Island",
+
+	"Thu": "My daughter dobson needs some stone to fix her sprinkler. Could you help her? She is probably at her hut on the Island",
+
+	"Fri": "My daughter dobson needs some stone to fix her sprinkler. Could you help her? She is probably at her hut on the Island",
+
+	"Sat": "My daughter dobson needs some stone to fix her sprinkler. Could you help her? She is probably at her hut on the Island",
+
+	"Sun": "My daughter dobson needs some stone to fix her sprinkler. Could you help her? She is probably at her hut on the Island",
+
+
+	"Mon": "$q 305/306 completeQuest_#Hello, do you have what I asked for?
+			#$r 305 15 completeQuest_yes#Yes, I do.
+			#$r 306 0 completeQuest_sorry#No, I'll be back.
+			#$r 306 0 completeQuest_no#No, I'll be back.
+		",
+		completeQuest_yes: 
+			"Oh, thank you so much!
+			#$b Please hand it to me right now.$h
+			",
+		completeQuest_sorry:
+			"Okay.",
+		completeQuest_no:
+			"Okay.",
+			
+	"Tue": "$q 305/306 completeQuest_#Hello, do you have what I asked for?
+			#$r 305 15 completeQuest_yes#Yes, I do.
+			#$r 306 0 completeQuest_sorry#No, I'll be back.
+			#$r 306 0 completeQuest_no#No, I'll be back.
+		",
+		completeQuest_yes: 
+			"Oh, thank you so much!
+			#$b Please hand it to me right now.$h
+			",
+		completeQuest_sorry:
+			"Okay.",
+		completeQuest_no:
+			"Okay.",
+	
+	"Wed": "$q 305/306 completeQuest_#Hello, do you have what I asked for?
+			#$r 305 15 completeQuest_yes#Yes, I do.
+			#$r 306 0 completeQuest_sorry#No, I'll be back.
+			#$r 306 0 completeQuest_no#No, I'll be back.
+		",
+		completeQuest_yes: 
+			"Oh, thank you so much!
+			#$b Please hand it to me right now.$h
+			",
+		completeQuest_sorry:
+			"Okay.",
+		completeQuest_no:
+			"Okay.",
+	"Thu": "$q 305/306 completeQuest_#Hello, do you have what I asked for?
+			#$r 305 15 completeQuest_yes#Yes, I do.
+			#$r 306 0 completeQuest_sorry#No, I'll be back.
+			#$r 306 0 completeQuest_no#No, I'll be back.
+		",
+		completeQuest_yes: 
+			"Oh, thank you so much!
+			#$b Please hand it to me right now.$h
+			",
+		completeQuest_sorry:
+			"Okay.",
+		completeQuest_no:
+			"Okay.",
+	
+	"Fri": "$q 305/306 completeQuest_#Hello, do you have what I asked for?
+			#$r 305 15 completeQuest_yes#Yes, I do.
+			#$r 306 0 completeQuest_sorry#No, I'll be back.
+			#$r 306 0 completeQuest_no#No, I'll be back.
+		",
+		completeQuest_yes: 
+			"Oh, thank you so much!
+			#$b Please hand it to me right now.$h
+			",
+		completeQuest_sorry:
+			"Okay.",
+		completeQuest_no:
+			"Okay.",
+			
+	"Sat": "$q 305/306 completeQuest_#Hello, do you have what I asked for?
+			#$r 305 15 completeQuest_yes#Yes, I do.
+			#$r 306 0 completeQuest_sorry#No, I'll be back.
+			#$r 306 0 completeQuest_no#No, I'll be back.
+		",
+		completeQuest_yes: 
+			"Oh, thank you so much!
+			#$b Please hand it to me right now.$h
+			",
+		completeQuest_sorry:
+			"Okay.",
+		completeQuest_no:
+			"Okay.",
+			
+	"Sun": "$q 305/306 completeQuest_#Hello, do you have what I asked for?
+			#$r 305 15 completeQuest_yes#Yes, I do.
+			#$r 306 0 completeQuest_sorry#No, I'll be back.
+			#$r 306 0 completeQuest_no#No, I'll be back.
+		",
+		completeQuest_yes: 
+			"Oh, thank you so much!
+			#$b Please hand it to me right now.$h
+			",
+		completeQuest_sorry:
+			"Okay.",
+		completeQuest_no:
+			"Okay.",
+
+	*/
+}

@@ -1,0 +1,17 @@
+{
+    "Name": "DobsonQuest",
+    "Author": "RiskyBiscuits",
+    "Version": "1.0.0",
+    "Description": "One or two sentences about the mod.",
+    "UniqueID": "RiskyBiscuits.DobsonQuest",
+    "MinimumApiVersion": "3.6.0",
+    
+
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "PurrplingCat.QuestFramework", // Quest Framework unique id must be here
+        "MinimumVersion": "1.2.0" // optional
+    }
+
+
+}

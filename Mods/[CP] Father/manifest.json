@@ -1,0 +1,15 @@
+{
+	"Name": "Father",
+	"Author": "SuperCitrus",
+	"Description": "Adds a new Father NPC",
+	"Version": "0.0.1",
+	"UniqueID": "supercitrus.fatherNpc",
+	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher"
+	},
+	
+		
+
+
+	"UpdateKeys": [ "" ]
+}

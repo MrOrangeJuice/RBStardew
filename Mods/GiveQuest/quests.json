@@ -1,0 +1,31 @@
+{
+    "Format": "1.0",
+    "Quests": [
+        {
+            "Name": "specialDeliverySprinkler", // No id needed, will be automatically generated
+            "Type": "ItemDelivery", // Vanilla quest type
+            "Title": "Special Delivery: Sprinkler",
+            "Description": "Dobson needs 30 stone to fix her sprinkler, see if you can help her out.",
+            "Objective": "Bring 30 Stone to Dobson",
+            "Reward": "Ring of Farming", // 300g,
+            "RewardType":  "Object",
+            "Cancelable": true,
+            "Trigger": "Dobson 390 30", // Bring amethyst to Abby
+            "ReactionText": "This is exactly what I needed! Take this ring my mother gave me"
+        }
+    ],
+    "Offers": [
+        {
+            "QuestName": "specialDeliverySprinkler",
+            "OfferedBy": "NPC",
+            "OfferDetails": {
+                "NpcName": "Father", // Speak with Abigail to get this quest
+                "DialogueText": "My daughter dobson needs some stone to fix her sprinkler. Could you help her? She is probably at her hut on the Island"
+            },
+            "When": {
+                "Seasons": "spring fall summer winter",
+                "Days": "1 2 3 4"
+            }
+        }
+    ]
+}

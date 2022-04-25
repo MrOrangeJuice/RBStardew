@@ -1,0 +1,21 @@
+{
+    "Name": "FarmRing",
+    "Author": "Team04",
+    "Version": "1.0.0",
+    "Description": "Adds farm ring to game", 
+    "MinimumApiVersion": "3.6.0",  
+    "UniqueID": "Team04.FarmRing",    
+    "UpdateKeys": [""],
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    },
+    "Dependencies": [
+        {
+            "UniqueID": "spacechase0.JsonAssets"
+        },
+        {
+            "UniqueID": "spacechase0.SpaceCore"
+        }
+    ]
+}

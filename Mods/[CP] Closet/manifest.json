@@ -1,0 +1,11 @@
+{
+	"Name": "Closet",
+	"Author": "SuperCitrus",
+	"Description": "Adds a new closet to abigail's room",
+	"Version": "0.0.1",
+	"UniqueID": "supercitrus.closet",
+	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher"
+	},
+	"UpdateKeys": [ "" ],
+}

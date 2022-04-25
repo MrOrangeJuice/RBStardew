@@ -1,0 +1,48 @@
+{
+    "Name": "Ring of Farming",
+    "Description": "Ring you can sell for lots of money",
+    "Category": "Ring",
+    "Edibility": -300,
+    "Price": 20000,
+    "Recipe": {
+        "ResultCount": 0,
+        "Ingredients": [
+	{
+         "Object": 72,
+         "Count": 1
+	}
+        ],
+        "CanPurchase": false,
+        "PurchaseFrom": "Dwarf",
+        "PurchasePrice": 12500
+    },
+
+    "NameLocalization":
+    {
+        "es": "", //Spansih
+        "ko": "", //Korean
+        "de": "", //German
+        "fr": "", //French
+        "hu": "", //Hungarian
+        "it": "", //Italian
+        "ja": "", //Japanese
+        "pt": "", //Portuguese
+        "ru": "", //Russian
+        "tr": "", //Turkish
+        "zh": "", //Chinese (Simplified)
+    },
+    "DescriptionLocalization":
+    {
+        "es": "", //Spansih
+        "ko": "", //Korean
+        "de": "", //German
+        "fr": "", //French
+        "hu": "", //Hungarian
+        "it": "", //Italian
+        "ja": "", //Japanese
+        "pt": "", //Portuguese
+        "ru": "", //Russian
+        "tr": "", //Turkish
+        "zh": "", //Chinese (Simplified)
+    },
+}

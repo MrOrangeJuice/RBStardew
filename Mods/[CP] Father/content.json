@@ -1,0 +1,52 @@
+{
+    "Format": "1.25.0",
+    "Changes": [
+        {
+            "Action": "Load",
+            "Target": "Characters/Father",
+            "FromFile": "assets/sprites.png",
+        },
+        {
+            "Action": "Load",
+            "Target": "Portraits/Father",
+            "FromFile": "assets/portraits.png",
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Father",
+            "FromFile": "assets/dialogue.json",
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueFather",
+            "FromFile": "assets/marriageDialogue.json",
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/schedules/Father",
+            "FromFile": "assets/schedule.json",
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Father": "adult/rude/neutral/positive/male/datable//Town/summer 7//Custom_RB_Island 50 6/Father"
+            },
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Father": "You're giving this to me? This is amazing!/207 232 233 400/Thank you! This is a very interesting specimen./-5 -79 422/...What is this?/80 330/This is disgusting./2/That was very thoughtful of you./-4/ ",
+            },
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/EngagementDialogue",
+            "Entries": {
+                "Father0": "I can't believe I am about to be married!$h",
+                "Father1": "I hope I don't get cold feet",
+            },
+        },
+    ]
+}

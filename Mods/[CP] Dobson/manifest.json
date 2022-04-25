@@ -1,0 +1,11 @@
+{
+	"Name": "Dobson",
+	"Author": "SuperCitrus",
+	"Description": "Adds a new NPC",
+	"Version": "0.0.1",
+	"UniqueID": "supercitrus.npc",
+	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher"
+	},
+	"UpdateKeys": [ "" ]
+}

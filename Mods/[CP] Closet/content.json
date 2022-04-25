@@ -1,0 +1,46 @@
+{
+   "Format": "1.25.0",
+
+   "CustomLocations": [
+      // add the in-game location
+    {
+        "Name": "Custom_RB_Island",
+        "FromMapFile": "assets/_RB.tmx"
+    },
+
+    {
+        "Name": "Custom_RB_BeachHut",
+        "FromMapFile": "assets/_BeachHut.tmx",
+    },
+    {
+        "Name": "Custom_RB_Cave",
+        "FromMapFile": "assets/_RB_Cave.tmx"
+    }
+   ],
+
+   "Changes": [
+      // add a warp to the new location from Abigail's room
+    {
+        "Action": "EditMap",
+        "Target": "Maps/Town",
+        "AddWarps": [
+            "54 109 Custom_RB_Island 60 2",
+            "55 109 Custom_RB_Island 60 2",
+            "56 109 Custom_RB_Island 60 2"
+
+        ]
+    },
+    {
+        "Action": "EditMap",
+        "Target": "Maps/Custom_RB_Island",
+        "AddWarps": [
+            "60 0 Town 55 109",
+            "90 76 Custom_RB_Cave 7 12",
+            "91 76 Custom_RB_Cave 7 12",
+            "90 39 Custom_RB_BeachHut 21 11",
+            "91 39 Custom_RB_BeachHut 21 11"
+
+        ]
+    },
+   ]
+}
